@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SoFresh.App/SoFresh.App.csproj" />
+    <Project Path="src/SoFresh.Core/SoFresh.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SoFresh.Core.Tests/SoFresh.Core.Tests.csproj" />
+  </Folder>
+</Solution>
